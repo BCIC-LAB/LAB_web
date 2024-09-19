@@ -119,9 +119,9 @@ author:
   location         : "秦皇岛-河北省-中国大陆"
   email            : "zhaoshiqi@neuq.edu.cn"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "zhaoshiqi@neuq.edu.cn"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "zhaoshiqi@neuq.edu.cn"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -323,3 +323,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
