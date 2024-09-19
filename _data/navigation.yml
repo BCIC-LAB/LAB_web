@@ -2,8 +2,8 @@
 main:
   - title: "课题组成员"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "代表文献"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "代表文献"
+  #    url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "目前研究方向"
   #   url: /year-archive/
   # - title: "Sample Collections"
