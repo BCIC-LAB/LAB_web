@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/tutor.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "脑机接口与硬件加速课题实验室" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "脑机接口与硬件加速实验室" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
@@ -116,15 +116,15 @@ author:
   name             : "Shiqi Zhao"
   avatar           : "/assets/images/tutor.jpg" # path of avatar image, e.g. 
   bio              : "东北大学"
-  location         : "秦皇岛-河北省-中国大陆"
+  location         : "秦皇岛-河北省-中国"
   email            : "zhaoshiqi@neuq.edu.cn"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "zhaoshiqi@neuq.edu.cn"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   # url: "https://your-website.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://graduate.neuq.edu.cn/info/1045/4766.htm"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
