@@ -25,9 +25,9 @@ description              : "课题组相关介绍"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/tutor.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "/assets/images/tutor.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "masthead_title" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
@@ -117,11 +117,11 @@ author:
   avatar           : "/assets/tutor.jpg" # path of avatar image, e.g. 
   bio              : "东北大学"
   location         : "秦皇岛-河北省-中国大陆"
-  email            :
+  email            : "zhaoshiqi@neuq.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "zhaoshiqi@neuq.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
