@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "课题组成员"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "代表文献"
-  #    url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "目前研究方向"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /team/  # 指向课题组成员页面
+  - title: "代表文献"
+    url: /publications/  # 指向代表性文献页面
+  - title: "目前研究方向"
+    url: /research/  # 指向研究方向页面
+  - title: "联系我们"
+    url: /contact/  # 指向联系我们页面
