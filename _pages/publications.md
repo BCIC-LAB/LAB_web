@@ -1,5 +1,5 @@
 ---
-layout: posts
+
 title: "已有科研产出"
 permalink: /publications/
 ---
