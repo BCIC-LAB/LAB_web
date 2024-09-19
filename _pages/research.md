@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: categories
 title: "目前研究方向"
 permalink: /research/
 ---

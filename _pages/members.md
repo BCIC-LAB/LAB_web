@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: categories
 title: "实验室成员"
 permalink: /team/
 ---
