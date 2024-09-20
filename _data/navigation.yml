@@ -3,7 +3,7 @@ main:
   - title: "Research Group"
     url: /team/  # 指向课题组成员页面
   - title: "Publications"
-    url: /Publications/  # 指向代表性文献页面
+    url: /publications/  # 指向代表性文献页面
   - title: "Current Research Directions"
     url: /research/  # 指向研究方向页面
   - title: "Contact us"
