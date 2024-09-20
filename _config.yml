@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Brain-Computer Interface and Hardware Acceleration Laboratory."
+title                    : "BCHA-LAB"
 title_separator          : "-"
-subtitle                 : "Northeast University at Qinhuangdao" # site tagline that appears below site title in masthead
+subtitle                 : "Brain-Computer Interface and Hardware Acceleration Laboratory." # site tagline that appears below site title in masthead
 name                     : "Brain-Computer Interface and Hardware Acceleration Laboratory."
 description              : "A breif introduction of us"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
