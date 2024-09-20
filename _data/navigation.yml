@@ -4,10 +4,10 @@ main:
   - title: "Publications"
     url: /publications/  # 指向代表性文献页面
 
-  - title: "Selected Projects"
+  - title: "Selected"
     url: /selected/
 
-  - title: "Current Research Directions"
+  - title: "Current Directions"
     url: /research/  # 指向研究方向页面
 
   - title: "Detailed information"

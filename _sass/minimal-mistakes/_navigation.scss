@@ -180,7 +180,7 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.75rem;
     color: $masthead-link-color;
     text-decoration: none;
     -webkit-transition: none;
@@ -512,7 +512,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     background: $primary-color;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
@@ -529,7 +529,7 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   @include breakpoint($large) {
     font-size: $type-size-7;
