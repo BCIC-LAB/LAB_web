@@ -1,10 +1,9 @@
 ---
-title: "Detailed information"
+title: "Dr. Zhao Shiqi"
 permalink: /information/
 ---
 
 
-# Dr. Zhao Shiqi
 
 **Date of Birth**: September 1994  
 **Title**: Lecturer, Master's Supervisor

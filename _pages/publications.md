@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 
-# Publications
 
 
 | Publication Title                                                                                                            | Authors                                      |
