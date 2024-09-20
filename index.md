@@ -2,7 +2,7 @@
 layout: home  
 author_profile: true  
 header:
-  image: /assets/images/logo.png
+  image: /assets/images/logo2.png
 ---
 
 ---
