@@ -1,6 +1,6 @@
 ---
 
-title: "联系我们"
+title: "Contect us"
 permalink: /contact/
 ---
 

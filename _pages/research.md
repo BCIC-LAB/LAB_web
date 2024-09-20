@@ -1,6 +1,6 @@
 ---
 
-title: "目前研究方向"
+title: "Current Research Directions"
 permalink: /research/
 ---
 

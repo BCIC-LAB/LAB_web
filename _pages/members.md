@@ -1,32 +1,27 @@
 ---
 
-title: "实验室成员"
+title: "Research Group"
 permalink: /team/
 ---
 
-# 这里写实验室成员信息
-分割线测试
+## The team currently consists of Z PhD students, A Master's students, and B Undergraduate students.
 
+---
 
-_______
+### PhD Students Information
 
+Image Information
 
-> 引用测试
+---
 
+### Master's Students Information
 
-**强调测试**  ==高亮测试==
+Image Information
 
-`block`
+---
 
-```
+### Undergraduate Students Information
 
-moudle MUX()
+Image Information
 
-```
-
-
-# 一级标题
-
-## 二级标题
-
-### 三级标题
+---
