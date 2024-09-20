@@ -5,7 +5,7 @@ main:
   - title: "Publications"
     url: /Publications/  # 指向代表性文献页面
   - title: "Current Research Directions"
-    url: /Research/  # 指向研究方向页面
+    url: /research/  # 指向研究方向页面
   - title: "Contact us"
     url: /contact/  # 指向联系我们页面
   - title: "Selected Projects"
