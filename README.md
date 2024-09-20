@@ -23,10 +23,15 @@ this is an Academic Blog
 
 #### 常用功能:修改navigate
 ![0](mdimages/navigation.png)
+
 打开navigation.yml文件,按照想展示的先后顺序添加新的标签栏,并给每个标签栏分配唯一的url
+
 ![0](mdimages/转跳.png)
+
 在网页中点击navigation之后,这个模板会去这里找相关的md文件或者html文件
+
 ![0](mdimages/_pages.png)
+
 在相应的md或者html文件中,我们一般需要添加
 
 ```
@@ -40,10 +45,14 @@ permalink: /在navigation.yml中指定的url/
 
 #### 修改主页index
 直接修改根目录中那个index文件即可
+
 ![0](mdimages/index.png)
+
 #### 提交post
 将md文件按照YY-MM-DD-Title.md命名即可,并放入
-![0](mdimages/post.png)中
+
+![0](mdimages/post.png)
+中
 
  using the theme:[Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
