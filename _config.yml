@@ -316,8 +316,7 @@ compress_html:
   ignore:
     envs: development
 
-header:
-  image: /assets/images/logo.png
+
 
 # Defaults
 defaults:
