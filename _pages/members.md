@@ -2,6 +2,7 @@
 
 title: "Research Group"
 permalink: /team/
+classes: wide
 ---
 
 ## The team currently consists of Z PhD students, A Master's students, and B Undergraduate students.

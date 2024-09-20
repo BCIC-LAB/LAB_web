@@ -1,6 +1,7 @@
 ---
 title: "Dr. Zhao Shiqi"
 permalink: /information/
+classes: wide
 ---
 
 

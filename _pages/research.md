@@ -2,6 +2,7 @@
 
 title: "Current Research Directions"
 permalink: /research/
+classes: wide
 ---
 
 ---

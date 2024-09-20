@@ -1,15 +1,11 @@
 ---
 layout: home  
 author_profile: true
-
+classes: wide
 sidebar:
-  - title: "Title"
-    image: assets\images\logo2.png
+  - title: 
+    image: /assets/images/logo2.png
     image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
 ---
 
 ---
