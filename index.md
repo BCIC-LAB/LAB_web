@@ -1,6 +1,15 @@
 ---
 layout: home  
-author_profile: true  
+author_profile: true
+
+sidebar:
+  - title: "Title"
+    image: assets\images\logo2.png
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 ---
 
 ---
