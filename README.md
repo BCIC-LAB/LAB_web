@@ -5,13 +5,45 @@ of Northeastern University
 
 this is an Academic Blog
 
+---
 
+### 关于如何使用与更新
 
+#### 对刚接触GitHub的同学,请阅读我们编写的[东秦自救手册](https://manual.caiyi1.me/)中关于md与git的相关内容
 
+#### 首先,如果遇到很高级的定制问题,请阅读官方文档[Minimal MistakesA Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
+#### 常用功能:修改左侧栏信息:
+![mdimages](mdimages/左侧栏.png)
+在`_config`中找到以上内容,即可定制bio,图片等相关信息
 
+#### 常用功能:修改左上角title
+![mdimages](mdimages/左上边栏.png)
+在`_config`中找到以上内容,即可定制logo,title等相关信息
 
+#### 常用功能:修改navigate
+![0](mdimages\navigation.png)
+打开navigation.yml文件,按照想展示的先后顺序添加新的标签栏,并给每个标签栏分配唯一的url
+![0](mdimages\转跳.png)
+在网页中点击navigation之后,这个模板会去这里找相关的md文件或者html文件
+![0](mdimages\_pages.png)
+在相应的md或者html文件中,我们一般需要添加
 
+```
+---
+title: "这个网页显示在最上面的标题"
+permalink: /在navigation.yml中指定的url/
+---
+```
+
+当然,这些东西大家随便找一个之前写过的文档模仿一下就可以了,相关页面可以使用html或者md编写,都能正常解析
+
+#### 修改主页index
+直接修改根目录中那个index文件即可
+![0](mdimages\index.png)
+#### 提交post
+将md文件按照YY-MM-DD-Title.md命名即可,并放入
+![0](mdimages\post.png)中
 
  using the theme:[Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
