@@ -3,6 +3,10 @@
 title: "Current Research Directions"
 permalink: /research/
 classes: wide
+sidebar:
+  - title: 
+    image: /assets/images/logo2.png
+    image_alt: "image"
 ---
 
 ---
