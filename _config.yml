@@ -9,30 +9,84 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#=======================================================================
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "脑机接口与硬件加速课题组"
+title                    : "Brain-Computer Interface and Hardware Acceleration Laboratory."
 title_separator          : "-"
 subtitle                 : "Northeast University at Qinhuangdao" # site tagline that appears below site title in masthead
-name                     : "脑机接口与硬件加速"
-description              : "课题组相关介绍"
+name                     : "Brain-Computer Interface and Hardware Acceleration Laboratory."
+description              : "A breif introduction of us"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/tutor.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "脑机接口与硬件加速实验室" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Brain-Computer Interface and Hardware Acceleration Laboratory." # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
-copyright                : "东北大学" # "copyright" name, defaults to site.title
+copyright                : "Northeast University(CN)" # "copyright" name, defaults to site.title
 copyright_url            : https://www.neuq.edu.cn/ # "copyright" URL, defaults to site.url
+
+
+# Site Author
+author:
+  name             : "Shiqi Zhao"
+  avatar           : "/assets/images/tutor.jpg" # path of avatar image, e.g. 
+  bio              : "Graduate Advisor, Assistant Professor at Northeastern University."
+  location         : "Qinhuangdao-Hebei-China Mainland"
+  email            : "zhaoshiqi@neuq.edu.cn"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "zhaoshiqi@neuq.edu.cn"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://graduate.neuq.edu.cn/info/1045/4766.htm"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Northseatern University at Qinhuangdao"
+      icon: "/assets/images/logo.png"
+      url: https://www.neuq.edu.cn/
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url:
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
+#========================================================================
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -111,54 +165,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
-author:
-  name             : "Shiqi Zhao"
-  avatar           : "/assets/images/tutor.jpg" # path of avatar image, e.g. 
-  bio              : "东北大学研究生导师,助理教授"
-  location         : "秦皇岛-河北省-中国"
-  email            : "zhaoshiqi@neuq.edu.cn"
-  links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "zhaoshiqi@neuq.edu.cn"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://graduate.neuq.edu.cn/info/1045/4766.htm"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   # url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://facebook.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
-# Site Footer
-footer:
-  links:
-    - label: "东北大学(秦皇岛)"
-      icon: "/assets/images/logo.png"
-      url: https://www.neuq.edu.cn/
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   # url:
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   # url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   # url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url:
 
 
 # Reading Files
