@@ -13,6 +13,23 @@ this is an Academic Blog
 
 #### 首先,如果遇到很高级的定制问题,请阅读官方文档[Minimal MistakesA Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
+### 启动本地预览
+要在本地运行并预览 Jekyll 网站，你需要按照以下步骤操作：
+
+1. 安装 Ruby 和 RubyGems
+Jekyll 是用 Ruby 编写的，所以首先需要安装 Ruby 和 RubyGems（Ruby 的包管理工具）。
+
+macOS: 使用 brew install ruby
+Windows: 你可以通过 RubyInstaller 安装 Ruby。
+Linux: 使用系统的包管理器（如 apt, dnf）安装 Ruby，比如在 Ubuntu 上执行 sudo apt install ruby-full
+终端进入在此文件夹目录下,或者直接在vcode的集成终端中输入:
+```
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
+或者点击笔者写好的`start.bash`文件
+
 ### 修改字体大小(主页除外)
 强烈建议使用`内联式`写法!!!!!!由于主题的精细结构,直接指定style会直接动全部文字!
 ![mdimage](mdimages/fontsize.png)
