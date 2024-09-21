@@ -16,7 +16,7 @@ this is an Academic Blog
 ### 修改字体大小(主页除外)
 强烈建议使用`内联式`写法!!!!!!由于主题的精细结构,直接指定style会直接动全部文字!
 ![mdimage](mdimages/fontsize.png)
-调节不同h,不同p的参数可以直接将网页中的字体比例发生变化
+调节不同**h**,不同**p**的参数可以直接将网页中的字体比例发生变化(需要一定的html知识
 
 **注意,还有一个更加细微的微调旋钮可以精细调节原始比例,但不建议**
 ![0](mdimages/fontori.png)
@@ -47,7 +47,7 @@ this is an Academic Blog
 ![0](mdimages/_pages.png)
 
 在相应的md或者html文件中,我们一般需要添加
-
+这里笔者放心不下补充一点:layout的值`_pages`文件夹里面一般不添加,**但是index.md或者index.html**一定要使用`layout:home`!
 ```
 ---
 title: "这个网页显示在最上面的标题"
