@@ -64,15 +64,15 @@ bundle exec jekyll serve
 ![0](mdimages/_pages.png)
 
 在相应的md或者html文件中,我们一般需要添加
-这里笔者放心不下补充一点:layout的值`_pages`文件夹里面一般不添加,**但是index.md或者index.html**一定要使用`layout:home`!
+
 ```
 ---
 title: "这个网页显示在最上面的标题"
 permalink: /在navigation.yml中指定的url/
 ---
 ```
-
 当然,这些东西大家随便找一个之前写过的文档模仿一下就可以了,相关页面可以使用html或者md编写,都能正常解析
+这里笔者放心不下补充一点:layout的值`_pages`文件夹里面的文件一般不添加,**但是index.md或者index.html**一定要使用`layout:home`!
 
 #### 修改主页index
 直接修改根目录中那个index文件即可
