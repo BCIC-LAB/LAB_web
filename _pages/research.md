@@ -11,10 +11,10 @@ sidebar:
 
 ---
 
-### Deep Learning and Hardware Acceleration
+- Deep Learning and Hardware Acceleration
 
-### Digital Chips and Systems
+- Digital Chips and Systems
 
-### Brain-like Computing 
+- Brain-like Computing 
 
-### Brain-Computer Interfaces
+- Brain-Computer Interfaces

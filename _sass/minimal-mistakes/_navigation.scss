@@ -192,7 +192,7 @@
 
     &.site-logo {
       margin-inline-start: 0;
-      margin-inline-end: 0.5rem;
+      margin-inline-end: 1rem;
     }
 
     &.site-title {
@@ -262,7 +262,7 @@
     position: absolute;
     top: 100%;
     inset-inline-end: 0;
-    margin-top: 15px;
+    margin-top: 10px;
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
@@ -438,7 +438,7 @@
 
 .nav__list .nav__items {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 0.8rem;
 
   a {
     color: inherit;
@@ -480,9 +480,9 @@
 
 .nav__title {
   margin: 0;
-  padding: 0.5rem 0.75rem;
+  padding: 0.25rem 0.5rem;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-size: $type-size-7;
   font-weight: bold;
 }
 
@@ -491,7 +491,7 @@
   margin: 0.5rem 0;
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
@@ -512,7 +512,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-5;
+    font-size: $type-size-7;
     background: $primary-color;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
@@ -529,7 +529,7 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
 
   @include breakpoint($large) {
     font-size: $type-size-7;
@@ -540,7 +540,7 @@
     padding: 0.25rem 0.75rem;
     color: $muted-text-color;
     font-weight: bold;
-    line-height: 1.5;
+    line-height: 1.0;
     border-bottom: 1px solid $border-color;
 
     &:hover {
