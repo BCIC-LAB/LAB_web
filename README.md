@@ -13,6 +13,19 @@ this is an Academic Blog
 
 #### 首先,如果遇到很高级的定制问题,请阅读官方文档[Minimal MistakesA Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
+### 修改字体大小(主页除外)
+
+![mdimage](mdimages/fontsize.png)
+调节不同h,不同p的参数可以直接将网页中的字体比例发生变化
+
+**注意,还有一个更加细微的微调旋钮可以精细调节原始比例,但不建议**
+![0](mdimages/fontori.png)
+
+### 修改主页字体大小
+需要一定的前端知识,具体是html的语法规范
+修改`<div>`指定的`font-size`比例
+![0](mdimages/indexfont.png)
+
 #### 常用功能:修改左侧栏信息:
 ![mdimages](mdimages/左侧栏.png)
 在`_config`中找到以上内容,即可定制bio,图片等相关信息
