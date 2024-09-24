@@ -9,13 +9,7 @@ sidebar:
     image_alt: "image"
 ---
 
-## The team currently consists of Z PhD students, A Master's students, and B Undergraduate students.
-
----
-
-### PhD Students Information
-
-Image Information
+## The team currently consists of 2 Master students, and 14 Undergraduate students.
 
 ---
 
