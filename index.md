@@ -10,7 +10,7 @@ sidebar:
 
 
 
-Shiqi Zhao is is currently an assistant professor in the Northeastern University, China. He received his Ph. D. degree in electronic science and technology from Zhejiang University and Westlake University in 2023, under the supervision of Prof. Mohamad Sawan. His current research interests include brain machine interface, LLMs/artificial intelligence algorithm acceleration, customized computer architecture design, and hardware implementation for bio-medical deep learning processors.
+Shiqi Zhao is currently an assistant professor in the Northeastern University, China. He received his Ph. D. degree in electronic science and technology from Zhejiang University and Westlake University in 2023, under the supervision of Prof. Mohamad Sawan. His current research interests include brain machine interface, LLMs/artificial intelligence algorithm acceleration, customized computer architecture design, and hardware implementation for bio-medical deep learning processors.
 
 ## Research Interests
 
