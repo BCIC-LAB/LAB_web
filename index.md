@@ -21,10 +21,11 @@ Shiqi Zhao is currently an assistant professor in the Northeastern University, C
 
 ## Recruitment
 
-Our team is seeking self-motivated Master and Undergraduate students who are interested in brain machine interface, artificial intelligence algorithm, computer architecture, and chip design. If you are interested, please email (zhaoshiqi@qhd.neu.edu.cn; zhaoshiqi@neuq.edu.cn) me your CV.
+Our team is seeking self-motivated Master and Undergraduate students who are interested in brain machine interface, artificial intelligence algorithm, computer architecture, and chip design. If you are interested, please email (zhaoshiqi@qhd.neu.edu.cn, zhaoshiqi@neuq.edu.cn) me your CV.
 
 ## News
 
+- Dec./4/2024 Our paper on spiking attention/convolution processor has been accepted by JSSC. Congratulations to Chaoming.
 - Aug./24/2024 I received a grant from the NSFC Youth Fund titled “Research on Key Technologies of Neurophysiological Signal Processing Chip Based on Multi-Plasticity On-Chip Lifelong Learning”!
 - Jun./24/2024 I received a grant from the Hebei NSFC Youth Fund.
 - Apr./17/2024 Our paper on Hybrid Neural Network Training Processor has been accepted by TBioCAS.
