@@ -10,9 +10,9 @@ sidebar:
 
 
 **Date of Birth**: September 1994  
-**Title**: Lecturer, Master's Supervisor  
+**Title**: Assistant professor, Supervisor of master candidate  
 **Phone**: +86 18810907126  
-**Email**: [zhaoshiqi@neuq.edu.cn](mailto:zhaoshiqi@neuq.edu.cn)
+**Email**: [zhaoshiqi@neuq.edu.cn](mailto:zhaoshiqi@neuq.edu.cn), [zhaoshiqi@qhd.neu.edu.cn](mailto:zhaoshiqi@qhd.neu.edu.cn)
 
 ---
 
@@ -30,7 +30,7 @@ sidebar:
 ---
 
 ## Work Experience
-**September 2023 - Present**: Lecturer, School of Computer and Communication Engineering, Northeastern University at Qinhuangdao
+**September 2023 - Present**: Assistant professor, School of Computer and Communication Engineering, Northeastern University
 
 ---
 
@@ -79,4 +79,4 @@ In recent years, Dr. Zhao has published over ten papers in renowned journals and
 ---
 
 ## Graduate Student Supervision
-Assisted in supervising 3 graduate students.
+Supervising 2 graduate students, assisted in supervising 6 graduate students.
