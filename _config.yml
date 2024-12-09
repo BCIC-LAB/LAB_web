@@ -41,7 +41,7 @@ copyright_url            : https://www.neuq.edu.cn/ # "copyright" URL, defaults 
 author:
   name             : "Shiqi Zhao"
   avatar           : "/assets/images/tutor.jpg" # path of avatar image, e.g. 
-  bio              : "Graduate Advisor, Assistant Professor at Northeastern University."
+  bio              : "Assistant Professor at Northeastern University."
   location         : "Qinhuangdao-Hebei-China"
   email            : "zhaoshiqi@neuq.edu.cn"
   links:
