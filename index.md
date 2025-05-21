@@ -25,6 +25,7 @@ Our team is seeking self-motivated Master and Undergraduate students who are int
 
 ## News
 
+- Mar./21/2025 Our paper on Vision Transformer Accelerator has been accepted by TCASI.
 - Mar./12/2025 Our paper on Semi-Supervised Neurological Symptoms Prediction Processor has been accepted by TIM.
 - Dec./4/2024 Our paper on spiking attention/convolution processor has been accepted by JSSC. Congratulations to Chaoming.
 - Aug./24/2024 I received a grant from the NSFC Youth Fund titled “Research on Key Technologies of Neurophysiological Signal Processing Chip Based on Multi-Plasticity On-Chip Lifelong Learning”!
