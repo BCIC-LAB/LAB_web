@@ -25,6 +25,7 @@ Our team is seeking self-motivated Master and Undergraduate students who are int
 
 ## News
 
+- Aug./9/2025 Our paper on DNN/SNN Training/Inference processor has been accepted by A-SSCC. Congratulations to Fengshi.
 - Mar./21/2025 Our paper on Vision Transformer Accelerator has been accepted by TCASI.
 - Mar./12/2025 Our paper on Semi-Supervised Neurological Symptoms Prediction Processor has been accepted by TIM.
 - Dec./4/2024 Our paper on spiking attention/convolution processor has been accepted by JSSC. Congratulations to Chaoming.
