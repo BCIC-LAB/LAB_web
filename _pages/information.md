@@ -68,9 +68,10 @@ sidebar:
 In recent years, Dr. Zhao has published over ten papers in renowned journals and conferences in his field.
 
 ### Representative Academic Papers
-1. Zhao S, Yang J, Wang J, Sawan M. HybMED: A Hybrid Neural Network Training Processor with Multi-Sparsity Exploitation for Internet of Medical Things [J]. IEEE Transactions on Biomedical Circuits and Systems, 2024.
-2. Zhao S, Yang J, Wang J, Sawan M. A 0.99-to-4.38 μJ/class Event-Driven Hybrid Neural Network Processor for Full-Spectrum Neural Signal Analyses [J]. IEEE Transactions on Biomedical Circuits and Systems, 2023.
-3. Wu D#, Zhao S#, Yang J, Sawan M. Low-Power FPGA-based Task-aware Compression and Energy-efficient Analysis Processor for Continuous Health Monitoring [J]. IEEE Transactions on Biomedical Circuits and Systems, 2023.
+1. Zhao S, Wang S, Wang Z, et al. BoostViT: Booth-Serial Skipping and Tunable Scaling for Vision Transformers[J]. IEEE Transactions on Circuits and Systems I: Regular Papers, 2025.
+2. Zhao S, Yang J, Wang J, Sawan M. HybMED: A Hybrid Neural Network Training Processor with Multi-Sparsity Exploitation for Internet of Medical Things [J]. IEEE Transactions on Biomedical Circuits and Systems, 2024.
+3. Zhao S, Yang J, Wang J, Sawan M. A 0.99-to-4.38 μJ/class Event-Driven Hybrid Neural Network Processor for Full-Spectrum Neural Signal Analyses [J]. IEEE Transactions on Biomedical Circuits and Systems, 2023.
+4. Wu D#, Zhao S#, Yang J, Sawan M. Low-Power FPGA-based Task-aware Compression and Energy-efficient Analysis Processor for Continuous Health Monitoring [J]. IEEE Transactions on Biomedical Circuits and Systems, 2023.
 
 ---
 
