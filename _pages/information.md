@@ -48,11 +48,13 @@ sidebar:
 ## Research Projects
 
 ### Ongoing Projects
-1. Talent Research Startup Fund, Northeastern University, Principal Investigator
-2. CMOS Process Terahertz Heterodyne Detector Chip, Principal Investigator
-3. Algorithm Development for Brain-Computer Interface, Principal Investigator
-4. Major Project of the Ministry of Science and Technology's Innovation 2030 "Brain Science and Brain-Inspired Research", Participant
-5. Zhejiang Province Key R&D Project, Participant
+1. Young Scientists Fund of the National Natural Science Foundation of China, Principal Investigator
+2. Young Scientists Fund of the Natural Science Foundation of Hebei Province, Principal Investigator
+3. Talent Research Startup Fund, Northeastern University, Principal Investigator
+4. CMOS Process Terahertz Heterodyne Detector Chip, Principal Investigator
+5. Algorithm Development for Brain-Computer Interface, Principal Investigator
+6. Major Project of the Ministry of Science and Technology's Innovation 2030 "Brain Science and Brain-Inspired Research", Participant
+7. Zhejiang Province Key R&D Project, Participant
 
 ---
 
