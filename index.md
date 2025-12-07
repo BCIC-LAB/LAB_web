@@ -35,7 +35,6 @@ Our team is seeking self-motivated Master and Undergraduate students who are int
 - Apr./17/2024 Our paper on Hybrid Neural Network Training Processor has been accepted by TBioCAS.
 - Mar./3/2024 Our paper on precise and low-power closed-loop neuromodulation has been accepted by Frontiers in Neuroscience. Congratulations to Dr. Yang.
 - Mon./21/2024 Our paper on spiking attention/convolution processor has been accepted by CICC 2024. Congratulations to Chaoming.
-- Oct./10/2023 Our paper on event-driven neural signal processor has been accepted by BioCAS 2023. Congratulations to Junzhe.
 
 
 
