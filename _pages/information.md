@@ -82,4 +82,4 @@ In recent years, Dr. Zhao has published over ten papers in renowned journals and
 ---
 
 ## Graduate Student Supervision
-Supervising 2 graduate students, assisted in supervising 6 graduate students.
+Supervising 4 graduate students, assisted in supervising 6 graduate students.
