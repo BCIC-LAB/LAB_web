@@ -15,7 +15,7 @@ sidebar:
 
 ### Master's Students Information
 
-Zihan Chen, Zhengjie Wang
+Zihan Chen, Zhengjie Wang, Shuchang Feng, Yanxia Chen
 
 ---
 
