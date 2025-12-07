@@ -9,7 +9,7 @@ sidebar:
     image_alt: "image"
 ---
 
-## The team currently consists of 2 Master students, and 17 Undergraduate students.
+## The team currently consists of 4 Master students, and 40+ Undergraduate students.
 
 ---
 
