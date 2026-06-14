@@ -25,6 +25,7 @@ Our team is seeking self-motivated Master and Undergraduate students who are int
 
 ## News
 
+- Jun./1/2026 Our paper on Multi-Modal processor has been accepted by ESSERC 2026. Congratulations to Fengshi.
 - Mar./20/2026 Our paper on Vision Transformer Compression has been accepted by KBS.
 - Dec./9/2025 Our paper on On-Device Epilepsy Diagnosis has been accepted by JBHI.
 - Nov./8/2025 Our paper on Depression Detection has been accepted by AAAI-2026. Congratulations to Dr. Fu.
